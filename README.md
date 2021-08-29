@@ -12,6 +12,7 @@
 - SonarCloud https://github.com/sonarsource/sonarcloud-github-action
 - CodeFactor https://www.codefactor.io/repository/github/gitextensions/gitextensions/pull/9539
 - CodeCov https://github.com/marketplace/codecov
+- Official Sonarqube Scan https://github.com/marketplace/actions/official-sonarqube-scan
 
 ## Notification and Messages
 - Action Discord https://github.com/Ilshidur/action-discord
